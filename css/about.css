@@ -79,36 +79,36 @@
 }
 
 @font-face {
-    font-family: 'MuseoModerno-Bold';
-    src: url('../css/fonts/MuseoModerno-Bold.ttf') format('truetype');
+    font-family: 'NotoSansKhmer-Bold';
+    src: url('../css/fonts/NotoSansKhmer-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'MuseoModerno-Regular';
-    src: url('../css/fonts/MuseoModerno-Regular.ttf') format('truetype');
+    font-family: 'NotoSansKhmer-Regular';
+    src: url('../css/fonts/NotoSansKhmer-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'MuseoModerno-SemiBold';
-    src: url('../css/fonts/MuseoModerno-SemiBold.ttf') format('truetype');
+    font-family: 'NotoSansKhmer-SemiBold';
+    src: url('../css/fonts/NotoSansKhmer-SemiBold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'MuseoModerno-Light';
-    src: url('../css/fonts/MuseoModerno-Light.ttf') format('truetype');
+    font-family: 'NotoSansKhmer-Light';
+    src: url('../css/fonts/NotoSansKhmer-Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'MuseoModerno-Medium';
-    src: url('../css/fonts/MuseoModerno-Medium.ttf') format('truetype');
+    font-family: 'NotoSansKhmer-Medium';
+    src: url('../css/fonts/NotoSansKhmer-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
