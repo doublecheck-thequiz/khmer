@@ -127,6 +127,20 @@ a:hover {
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Battambang-Bold';
+    src: url('../css/fonts/Battambang-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Battambang-Regular';
+    src: url('../css/fonts/Battambang-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* testo che scorre */
 /* ticker - testo muove */
 * {

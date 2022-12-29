@@ -11,8 +11,8 @@
   --blue: #007bff;
   --violet: #9900FF;
   --font-light: NotoSansKhmer-Light;
-  --font-regular: NotoSansKhmer-Regular;
-  --font-bold: NotoSansKhmer-Bold;
+  --font-regular: Battambang-Regular;
+  --font-bold: Battambang-Bold;
   --font-medium: NotoSansKhmer-Medium;
   --font-semibold: NotoSansKhmer-SemiBold;
   --font-var: bandeins_strangeSBdExfull;
@@ -109,6 +109,20 @@
 @font-face {
     font-family: 'NotoSansKhmer-Medium';
     src: url('../css/fonts/NotoSansKhmer-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Battambang-Bold';
+    src: url('../css/fonts/Battambang-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Battambang-Regular';
+    src: url('../css/fonts/Battambang-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
