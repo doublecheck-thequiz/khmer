@@ -275,7 +275,7 @@ footer .container-fluid {
 }
 
 .title111 {
-  font-family: var(--font-medium);
+  font-family: var(--font-var);
   color: var(--black);
   font-size: 2rem;
   margin: 0;
@@ -383,22 +383,22 @@ a:hover.sottolineatura {
 
 .underline1 {
   color: var(--green);
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .underline2 {
   color: var(--blue);
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .underline3 {
   color: var(--black);
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .underline4 {
   color: var(--white);
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 #PrevVIOLA {
