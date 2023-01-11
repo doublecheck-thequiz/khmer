@@ -621,8 +621,8 @@ align-items: center;
   width: 130%;
 }
 
-.buttons {
-  width: 20%;
+#buttons {
+  width: 90%;
   float: right;
   position: fixed;
   left: 79%;
